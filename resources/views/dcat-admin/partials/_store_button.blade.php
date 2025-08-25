@@ -1,0 +1,1 @@
+<div class="pull-right" data-responsive-table-toolbar="grid-table"><a href="{{$link}}" class="btn btn-primary"><i class="feather icon-plus"></i><span class="d-none d-sm-inline">&nbsp;&nbsp;{{ $title }}</span></a></div>
