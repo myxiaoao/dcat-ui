@@ -53,5 +53,4 @@
             $(v).css({'max-height': (($(v).data('height') || height) - 10) + 'px'});
         });
     });
-
 })(jQuery);

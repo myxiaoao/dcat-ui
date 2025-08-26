@@ -2,6 +2,9 @@
 
 一个为 Dcat Admin 设计的现代化主题包。
 
+## 预览
+![](./art/preview.png)
+
 ## 安装
 
 ```bash
